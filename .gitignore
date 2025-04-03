@@ -1,0 +1,6 @@
+### Folders to be ignored
+/src
+
+### Files to be ignored
+
+pom.xml
