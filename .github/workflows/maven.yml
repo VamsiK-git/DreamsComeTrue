@@ -2,7 +2,7 @@ node {
     stage('Checkout') {
         // Checkout the code from a version control system
         // For example, from a Git repository:
-        git 'https://github.com/VamsiK-git/DreamsComeTrue/.github/workflow/maven.yml'
+        git 'https://github.com/VamsiK-git/DreamsComeTrue/.github/workflow'
     }
 
     stage('Build') {
